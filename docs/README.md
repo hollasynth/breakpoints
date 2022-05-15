@@ -37,12 +37,12 @@ If the input goes above 5V, the output will keep falling at 1V per volt. At leas
  
  Monitor pad T on an oscilloscope.
  
- - Send the signal to pad H or G. Adjust TR4 for the flattest possible output
- - Send the signal to pad F or E. Adjust TR3 for the flattest possible output
- - Send the signal to pad D or C. Adjust TR2 for the flattest possible output
- - Send the signal to pad A or B. Adjust TR1 for the flattest possible output
+ - Send the signal to pad H or G. Adjust TR4 for the flattest possible output.
+ - Send the signal to pad F or E. Adjust TR3 for the flattest possible output.
+ - Send the signal to pad D or C. Adjust TR2 for the flattest possible output.
+ - Send the signal to pad A or B. Adjust TR1 for the flattest possible output. 
  
- That's it!
+The offsets add up through the stages so you have to do it in this order. 
 
  
  

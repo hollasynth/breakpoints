@@ -27,6 +27,22 @@ If the input goes above 5V, the output will keep falling at 1V per volt. At leas
  - [Bill of materials](breakpoints-bom.pdf) 
  - [Interactive BOM](ibom.html) to help place the parts (experimental!)
 
+## Setup and trimming:
+ 
+ For v1.1 boards: 
+ 
+ These instructions are to trim out any offsets on the LM13700s. This can be done with the main board disconnected from any controls. If you have controls connected, set all the gain and breakpoint controls to zero.
+
+ Generate a test signal around 1kHz with a negative component. I use my function generator to create a 1kHz square wave from 0 to -5V. Anything with a significant negative voltage would be fine. 
+ 
+ Monitor pad T on an oscilloscope.
+ 
+ - Send the signal to pad H or G. Adjust TR4 for the flattest possible output
+ - Send the signal to pad F or E. Adjust TR3 for the flattest possible output
+ - Send the signal to pad D or C. Adjust TR2 for the flattest possible output
+ - Send the signal to pad A or B. Adjust TR1 for the flattest possible output
+ 
+ That's it!
 
  
  

@@ -1,5 +1,6 @@
 # Four-segment transfer function generator
 
+ <img src="breakpoint.png" alt="breakpoints scope shot" width="40%" >
 ![Breakpoints photo](breakpoint.png | width=50%)
 ![Loudest Warning Panel](LW prototype breakpoint panel.jpeg|width=50%)
 

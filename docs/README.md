@@ -1,8 +1,7 @@
 # Four-segment transfer function generator
 
- <img src="breakpoint.png" alt="breakpoints scope shot" width="40%" >
-![Breakpoints photo](breakpoint.png | width=50%)
-![Loudest Warning Panel](LW prototype breakpoint panel.jpeg|width=50%)
+ <img src="breakpoint.png" alt="breakpoints scope shot" width="45%" >
+ <img src="LW prototype breakpoint panel.jpeg" alt="breakpoints scope shot" width="45%" >
 
 [Phil Julian](https://philjulian.bandcamp.com/) was interested in having a workalike of the [Comdyna 709 function generator](http://www.analogmuseum.org/library/comdyna_functiongenerators.pdf) for his synthesizer. I was reminded of some circuits from Jim Patchell's [ideal diode tutorial](https://schmitzbits.de/diode_tutorial/index.html).
 
